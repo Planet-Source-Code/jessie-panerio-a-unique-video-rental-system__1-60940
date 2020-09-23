@@ -1,0 +1,23 @@
+Title: Video Rental System (Version 1.0) by Jessie Panerio
+Date Submitted: June 6, 2005
+
+Description: This application is an old program of mine that I've created way back ago when i was still learning ADO Programming. I didnt include the program on Returned Items with cases (e.g. Disc returned because it did not play due to deep scratches on its surface or in other words damage disc) because it was damage and I was not able to recover it when my Hardisk malfunction. The Codes are messy and long and lots of form are used but i hope this program can somewhat help others who are starting to learn ADO Programming. 
+
+Note: If you will add a New User and eventually forgot the password, just go to the Users Configuration then click the (label) Record # of #. A message box will appear containing the password and username. To change the existing UserName (Jessie) on administrator level just add a new administrator user then Log In to that username and delete the Username(Jessie).
+
+Database Password: incubus
+
+Log In as administrator
+UserName: Jessie
+Password: admin
+
+Log In as employee
+UserName: Jess
+Password: emp
+
+This file came from Planet-Source-Code.com...the home millions of lines of source code
+You can view comments on this code/and or VOTE on it at: 
+
+http://planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=60940&lngWId=1
+
+The author may have retained certain copyrights to this code...please observe their request and the law by reviewing all copyright conditions at the above URL.
